@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Bonjour les exars !\n");
+    int a = 3;
+    printf("Je suis fasciné par le nombre %d\n", a);
     return 0;
 }
