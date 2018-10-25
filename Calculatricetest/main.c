@@ -1,9 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+int addition (int a,int b)
 {
-    int a = 3;
-    printf("Je suis fasciné par le nombre %d\n", a);
+    return a+b;
+}
+
+int main ()
+{
+    printf ("%d\n", addition (1,4));
     return 0;
 }

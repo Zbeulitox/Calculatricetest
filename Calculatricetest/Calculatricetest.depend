@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540458204 source:c:\users\simon\onedrive\documents\github\calculatrice\calculatrice\calculatricetest\main.c
+	<stdio.h>
+	<stdlib.h>
+
